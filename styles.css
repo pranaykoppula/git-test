@@ -1,9 +1,8 @@
 body{
-    display:flex
+    display:flex;
+    flex-direction: column;
 }
 div{
-    min-height:50px;
-    max-height: 500px;
     border: 2px solid red;
 }
 #first{

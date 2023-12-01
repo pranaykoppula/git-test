@@ -1,6 +1,7 @@
 body{
     display:flex;
     flex-direction: column;
+    justify-content: stretch
 }
 div{
     border: 2px solid red;

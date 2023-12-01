@@ -4,6 +4,7 @@ body{
 }
 div{
     border: 2px solid red;
+    height: auto;
 }
 #first{
     background-color: #1F2937;

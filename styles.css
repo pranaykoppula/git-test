@@ -1,0 +1,20 @@
+body{
+    display:flex
+}
+div{
+    min-height:50px;
+    max-height: 500px;
+    border: 2px solid red;
+}
+#first{
+    background-color: #1F2937;
+}
+#second{
+    background-color: white;
+}
+#third{
+    background-color: #E5E7EB;
+}
+#fourth{
+    background-color: white;
+}
